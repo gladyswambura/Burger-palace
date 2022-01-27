@@ -55,4 +55,41 @@ ul li{
         border-radius: 60% 60% 0% 60%;
      
      }
-
+     .tocustomers {
+        display:flex;
+        float:left;
+        background-color:rgb(239, 253, 255);
+        height:100%;
+        padding: 100px 10px 100px 10px;
+    }
+    .bell {
+       border: 1.5px solid rgb(114, 69, 69);
+     padding: 10px;
+     margin: 20px;
+     float: left;
+     width: 40%;
+     text-align: center;
+     border-radius: 25px; 
+    }
+    .lorry {
+       border: 1.5px solid rgb(114, 69, 69);
+       padding: 10px;
+       padding-top: 30px;
+       padding-bottom: 60px;
+       margin: 20px;
+       margin-right: 0px;
+       float: left;
+       width: 40%;
+       height: 200px;
+       text-align: center;
+       border-radius: 25px;
+    }
+    .savory {
+       border: 1.5px solid rgb(114, 69, 69);
+       padding: 10px;
+       margin: 20px;
+       float: left;
+       width: 40%;
+       text-align: center;
+       border-radius: 25px;
+    }
