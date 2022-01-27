@@ -135,3 +135,31 @@ ul li{
            text-align: center;
            border-radius: 25px;
         }
+        .burger4 {
+            box-shadow: 2px 2px 3px 2px rgb(199, 189, 189);
+            padding: 20px;
+            margin: 20px;
+            margin-left:5%;
+            float: right;
+            width: 25%;
+            text-align: center;
+            border-radius: 25px; 
+         }
+         .burger5 {
+       box-shadow: 2px 2px 3px 2px rgb(199, 189, 189);
+       padding: 20px;
+       margin: 20px;
+       float: left;
+       width: 25%;
+       text-align: center;
+       border-radius: 25px;
+         }
+         .burger6 {
+            box-shadow: 2px 2px 3px 2px rgb(199, 189, 189);
+            padding: 20px;
+            margin: 20px;
+            float: left;
+            width: 25%;
+            text-align: center;
+            border-radius: 25px;  
+         } 
