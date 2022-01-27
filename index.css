@@ -12,8 +12,8 @@
     float: left;
     display: inline;
 }
-.burger{
-
+h1{
+display: inline;
 }
 
 ul {
@@ -39,5 +39,14 @@ ul li{
     justify-content: space-between;
     align-items: center;
   } 
+  .heading {
+    padding-top: 30px;
+    padding-left: 5px;
+    font-size: 30px;  
+ }
+ .bug {
+    padding-left: 500px;
+    padding-top:20px;
+ }
 
 
