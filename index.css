@@ -2,11 +2,6 @@
     margin: 5px;
     padding: 10px;
 }
-
-.nav{
-    height: 50px;
-}
-
 .logo{
     height: 80px;
     float: left;
@@ -14,6 +9,7 @@
 }
 h1{
 display: inline;
+font: ;
 }
 
 ul {
@@ -24,6 +20,7 @@ ul li{
     display: inline;
     margin: 0 20px;
     list-style: none;
+    font-size: 25px;
 }
 .cart{
     height: 80px;
@@ -34,19 +31,16 @@ ul li{
 .flex {
     display: flex;
     padding: 10px;
-    margin: 30px;
-    margin-top: 10px;
     justify-content: space-between;
-    align-items: center;
   } 
   .heading {
-    padding-top: 30px;
-    padding-left: 5px;
+    padding-top: 250px;
+    padding-left: 50px;
     font-size: 30px;  
  }
  .bug {
-    padding-left: 500px;
+    padding-left: 600px;
     padding-top:20px;
+    width: 200px;
    
-
 
