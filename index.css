@@ -93,3 +93,45 @@ ul li{
        text-align: center;
        border-radius: 25px;
     }
+    .ourmenu {
+        margin-left: 20px;
+        display: inline-block;
+        height: 100%;
+        width: 100%;
+        align-items: center;
+        padding: 20px;
+     }
+     h3 {
+        text-align: center;
+        text-decoration-line: underline;
+        text-decoration-color: rgb(255, 166, 0);
+        text-decoration-thickness: 10px; 
+     }
+     .burger1 {
+      box-shadow: 2px 2px 3px 2px rgb(199, 189, 189);
+      padding: 20px;
+      margin: 20px;
+      margin-left:5%;
+      float: left;
+      width: 25%;
+      text-align: center;
+      border-radius: 25px;
+        }
+        .burger2 { 
+           box-shadow: 2px 2px 3px 2px rgb(199, 189, 189);
+           padding: 20px;
+           margin: 20px;
+           float: left;
+           width: 25%;
+           text-align: center;
+           border-radius: 25px;
+        }
+        .burger3 {
+           box-shadow: 2px 2px 3px 2px rgb(199, 189, 189);
+           padding: 20px;
+           margin: 20px;
+           float: left;
+           width: 25%;
+           text-align: center;
+           border-radius: 25px;
+        }
