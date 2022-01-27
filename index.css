@@ -1,0 +1,35 @@
+*{
+    margin: 5px;
+    padding: 10px;
+}
+
+.nav{
+    height: 50px;
+}
+
+.logo{
+    height: 80px;
+    float: left;
+    display: inline;
+}
+.burger{
+
+}
+
+ul {
+float: right;
+height: 50px;
+}
+ul li{
+    display: inline;
+    margin: 0 20px;
+    list-style: none;
+}
+.cart{
+    height: 80px;
+    width: 50px;
+    float: right;
+
+}
+
+
